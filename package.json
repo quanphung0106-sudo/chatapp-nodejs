@@ -1,0 +1,27 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quanphung0106-sudo/chatapp-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quanphung0106-sudo/chatapp-nodejs/issues"
+  },
+  "homepage": "https://github.com/quanphung0106-sudo/chatapp-nodejs#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "helmet": "^4.6.0",
+    "mongoose": "^6.0.14",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.15"
+  }
+}
