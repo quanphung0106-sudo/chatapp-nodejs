@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/quanphung0106-sudo/chatapp-nodejs#readme",
   "dependencies": {
+    "bcrypt": "^5.0.1",
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
     "helmet": "^4.6.0",
